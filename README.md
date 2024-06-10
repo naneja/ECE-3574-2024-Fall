@@ -2,6 +2,6 @@
 
 
 
-## Milestone 1: File Manager
+## Milestone 1: CMake Make Catch2 (Matrix Calculator)
 
-* This project aims to create a CMake project for the given `FileManager.cpp` in C++ and write test cases to ensure its functionality.
+* This project aims to create a `CMake` project for matrix operations in C++ and write test cases in `Catch2` to ensure its functionality.
